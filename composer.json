@@ -1,0 +1,21 @@
+{
+    "name": "fantedong/hello",
+    "description": "test demo",
+    "type": "library",
+    "license": "hjp",
+    "authors": [
+        {
+            "name": "huangjianping",
+            "email": "913419345@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+     "require": {
+        "php" : ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hello\\" : "src/"
+        }
+    }
+}
