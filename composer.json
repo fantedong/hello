@@ -2,7 +2,7 @@
     "name": "fantedong/hello",
     "description": "test demo",
     "type": "library",
-    "license": "hjp",
+    "license": "MIT",
     "authors": [
         {
             "name": "huangjianping",
